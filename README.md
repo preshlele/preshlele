@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @preshlele
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React, NextJs & Tailwind
+- 💞️ I’m looking to collaborate on Any projects
+- 📫 How to reach me emomensa@gmail.com
 
 <!---
 preshlele/preshlele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preshlele
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning React, NextJs & Typescript
+- 👀 I’m interested in front end development and its related technologies
+- 🌱 I currently work with Angular, React, NextJs & Typescript
 - 💞️ I’m looking to collaborate on Any projects
 - 📫 Reach me on emomensa@gmail.com
 
